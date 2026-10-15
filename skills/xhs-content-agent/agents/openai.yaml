@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书内容 Agent"
+  short_description: "从账号定位和IP设定到选题、写稿、生图、发布与复盘，支持Ego及Chrome备用路线"
+  default_prompt: "使用 $xhs-content-agent 读取当前项目配置，判断应从定位、选题还是制作阶段开始，并完成当前已授权的工作。"

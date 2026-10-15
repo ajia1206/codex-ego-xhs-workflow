@@ -1,0 +1,48 @@
+{
+  "project_name": "",
+  "audience": "",
+  "positioning": "",
+  "content_pillars": [],
+  "voice": {
+    "tone": "",
+    "verified_experiences": [],
+    "avoid": []
+  },
+  "brand": {
+    "name": "",
+    "watermark": null,
+    "colors": [],
+    "approved_assets": []
+  },
+  "account": {
+    "nickname": null,
+    "public_id": null
+  },
+  "browser": {
+    "preferred": "ego-lite",
+    "fallback": "chrome-browser-use",
+    "ego_profile": null,
+    "chrome_profile_directory": null
+  },
+  "production": {
+    "aspect_ratio": "3:4",
+    "image_tool": null,
+    "batch_size": null,
+    "subjects_per_item": null
+  },
+  "timezone": null,
+  "budget": {
+    "paid_api_authorized": false,
+    "limit": null,
+    "currency": null
+  },
+  "output_directory": "work",
+  "approval_record": "Each task records real user confirmation separately; configuration grants no publish authority.",
+  "discovery": {
+    "own_profile_urls": [],
+    "representative_note_urls": [],
+    "reference_account_urls": [],
+    "other_authorized_urls": [],
+    "include_creator_analytics": false
+  }
+}

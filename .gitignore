@@ -1,0 +1,22 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+
+# Local project identity, content and runtime data
+/project.json
+/positioning-ip.md
+/batch.csv
+/work/
+/.env
+/.env.*
+/.venv/
+/.omx/
+/.browser-use*/
+/browser-data/
+/screenshots/
+/recordings/
+/logs/
